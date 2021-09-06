@@ -1,7 +1,6 @@
 ### 👋 프론트엔드 개발자 원동환입니다.
 
 [![endol007's GitHub stats](https://github-readme-stats.vercel.app/api?username=endol007)](https://github.com/endol007/github-readme-stats)
-![endol007's GitHub stats](https://github-readme-stats.vercel.app/api?username=endol007&hide=contribs,prs)
 
 
 <!--
