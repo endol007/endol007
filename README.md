@@ -1,5 +1,5 @@
 ### 👋 프론트엔드 개발자 원동환입니다.
-
+- [벨로그 링크](https://velog.io/@endol007)
 - HTML, CSS, Javascript, React를 주로 사용하고 있습니다.
 - 직관적인 UX/UI, Clean Code 및 더 나은구조에 관심이 많습니다.
 
